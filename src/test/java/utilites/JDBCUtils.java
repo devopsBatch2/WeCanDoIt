@@ -32,6 +32,7 @@ public class JDBCUtils {
                 ResultSet.CONCUR_READ_ONLY);
     }
 
+
     /**
      * This method will run query to Database and will return the data as list of Maps
      * @param query
